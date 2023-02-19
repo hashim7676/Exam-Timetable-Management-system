@@ -1,0 +1,9 @@
+The Exam Hall Management System is a project created using the C++ programming language. The system starts by asking for login details, separate for the COE instructor and students. This provides a secure platform for managing the exams and ensuring that only authorized personnel have access to sensitive information.
+
+Once the login details have been verified, the system provides various functionalities for managing exams. The first step is to create courses, assign instructors to these courses, and register students for the exams. This allows the system to keep track of which courses are being offered, who is responsible for teaching them, and who is taking the exams.
+
+The Exam Timetable feature allows the creation of an exam schedule, indicating the date, time, and location of each exam. The Instructor and Student functionalities allow the creation of new instructors and students and the assignment of courses to the instructors. This information is stored in the database and can be easily retrieved and modified as needed.
+
+The system also provides a password change option for both instructors and students, allowing them to update their login credentials as required. Students can view their registered exams, including the date, time, and location, and receive notifications from the instructor. The instructor can send messages to students, providing updates and information about the exams.
+
+Finally, the Exam Timetable feature allows the view and modification of the exam schedule, making it easy to accommodate changes and updates. This provides a comprehensive and flexible platform for managing exams and ensures that all exam-related information is easily accessible and up-to-date.
